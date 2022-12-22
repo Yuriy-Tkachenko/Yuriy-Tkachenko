@@ -1,4 +1,4 @@
-## Hi there, I'm beginner frontend developer 👋
+## Hi there, I'm frontend developer. My stack:
 
 ### Languages and Tools:
 ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript)
@@ -11,9 +11,11 @@
 ![webpack](https://img.shields.io/badge/Webpack-000000?style=for-the-badge&logo=webpack)
 
 ### My last projects:
-- [Website for booking hotels in Sedona city "Sedona"](https://github.com/Yuriy-Tkachenko/Sedona)
-- [Website for buying food for cats "Cat-Energy"](https://github.com/Yuriy-Tkachenko/cat-energy)
-- [Project for booking hotels "Keksobooking"](https://github.com/Yuriy-Tkachenko/Keksobooking)
+- [Personal project: website for construction company DB](https://github.com/Yuriy-Tkachenko/DB)
+- [Study project: website for buy health-food](https://github.com/Yuriy-Tkachenko/farm-shop)
+- [Study project: website for booking hotels in Sedona city "Sedona"](https://github.com/Yuriy-Tkachenko/Sedona)
+- [Study project: website for buying food for cats "Cat-Energy"](https://github.com/Yuriy-Tkachenko/cat-energy)
+- [Study project: web-service for booking hotels "Keksobooking"](https://github.com/Yuriy-Tkachenko/Keksobooking)
 
 ### My stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuriy-Tkachenko&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
