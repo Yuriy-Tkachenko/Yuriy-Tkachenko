@@ -11,7 +11,6 @@
 ![webpack](https://img.shields.io/badge/Webpack-000000?style=for-the-badge&logo=webpack)
 
 ### My last projects:
-- [SPA React application "Farm shop" ](https://github.com/Yuriy-Tkachenko/farm-shop)
 - [JS single page application "Keksobooking"](https://github.com/Yuriy-Tkachenko/Keksobooking)
 - [Responsive website "Sedona"](https://github.com/Yuriy-Tkachenko/Sedona)
 - [Responsive website "Cat-Energy"](https://github.com/Yuriy-Tkachenko/cat-energy)
