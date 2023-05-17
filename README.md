@@ -11,6 +11,7 @@
 ![webpack](https://img.shields.io/badge/Webpack-000000?style=for-the-badge&logo=webpack)
 
 ### My last projects:
+- [Responsive website to buy coffee "Drink2Go"](https://yuriy-tkachenko.github.io/Drink2Go)
 - [JS single page application "Keksobooking"](https://github.com/Yuriy-Tkachenko/Keksobooking)
 - [Responsive website "Sedona"](https://github.com/Yuriy-Tkachenko/Sedona)
 - [Responsive website "Cat-Energy"](https://github.com/Yuriy-Tkachenko/cat-energy)
