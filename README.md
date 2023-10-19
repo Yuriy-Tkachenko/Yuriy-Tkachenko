@@ -1,4 +1,5 @@
-## Hi there, I'm frontend developer. My stack:
+# :man_technologist: About me:
+
 
 ### Languages and Tools:
 ![javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript)
@@ -22,6 +23,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuriy-Tkachenko&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Follow me
-[![telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/Yuriy_Tkachenko)
+[![telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/yuriy_stk)
 [![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tkachenkoyu/)
-[![twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter)](https://twitter.com/slogan_here)
+
