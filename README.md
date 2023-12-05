@@ -17,7 +17,6 @@
 - [JS single page application "Keksobooking"](https://github.com/Yuriy-Tkachenko/Keksobooking)
 - [Responsive website "Sedona"](https://github.com/Yuriy-Tkachenko/Sedona)
 - [Responsive website "Cat-Energy"](https://github.com/Yuriy-Tkachenko/cat-energy)
-- [Responsive website "Construction company DB"](https://github.com/Yuriy-Tkachenko/DB)
 
 ### My stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuriy-Tkachenko&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
